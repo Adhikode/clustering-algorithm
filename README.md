@@ -181,14 +181,14 @@ This project is created for educational purposes as part of CS634 coursework.
 
 - Course: CS634 Data Mining
 - Institution: New Jersey Institute of Technology
-- Instructor: [Instructor Name]
+- Instructor: Prof. Zhenduo Wang
 - Semester: Fall 2025
 
 ## Contact
 
 For questions or collaboration:
 - Email: na765@njit.edu
-- GitHub: [Your GitHub Profile]
+- GitHub: (https://github.com/Adhikode)
 
 ---
 
